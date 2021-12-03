@@ -65,7 +65,7 @@ def myfactorial(x):
 print("the factorial of your number is:", myfactorial(num1))
 
 
-# ATM operation 
+# ATM operation using user input
 
 print("welcome to the Bank")
 Pin=int(input("Please enter the ATM PIN\n"))
