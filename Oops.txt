@@ -1,0 +1,22 @@
+///////////////Oops Concepts///////////////////
+
+the main objective of oops is to reduce the code complexity and it also help to enable to reusablity of code.
+
+Class - it is a predefined or a user defined templete, from which objects are created. Class represents the methods that are same for all the objects in that class.
+
+objects - this is a basic unit of oops which represesnts the real life entities. 
+
+Abstraction - abstraction means showing only the relevant information to the end user and hiding all the irrelavant details that can cause the distraction. (e.g ATM operations)
+
+Encapsulation - binding data variables and methods together in the same class, so that only the objects of that class can use the entities. this is known as data hinding and it help us to insulate the data.
+(e.g School bag)
+
+Inheritance - Inheritance is a process in which one class inherits the function and properties of another class. the objective of this concept is to enable to code reusablity.
+In this sub-class only has to define its featues and the rest can be derived directly from the parent class.
+1. Single level - single parent and single child class (e.g mammals >> Animals)
+2. multilevel - There is an intermediate class which can be derived from the parent class and child class will be derived from intermediate class.(e.g mammals>>Animal>>Cats)
+3. multiple Inheritance - multiple parents >> single Child (e.g Son from his mother and father)
+4. hierarchical Inheritance - single parent >>multiple child (e.g car class>>tata, ferrari, porche)
+
+polymorphism - this concept helps the developers to assign and perform multiple actions using same function. 
+(e.g "+" sign can be used for addition as well as string concatenation)
