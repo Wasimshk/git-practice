@@ -13,7 +13,7 @@ print("the minimum value is: ",rmin(randl))
 
 #finding maximum value of array
 
-import randgit om
+import random
 randl = random.sample(range(1,50),7) 
 def rmax(x):
     max=randl[0]
